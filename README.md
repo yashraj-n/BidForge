@@ -283,7 +283,7 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 ---
 
 <p align="center">
-  <img src="./assets/creator-image.png" width="140" alt="Creators Avatar Image"/>
+  <img src="./assets/creator-image.png" alt="Creators Avatar Image"/>
 
   <br /><br />
 
