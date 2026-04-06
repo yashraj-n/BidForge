@@ -283,11 +283,16 @@ This project is licensed under the **Apache License 2.0** — see the [LICENSE](
 ---
 
 <p align="center">
+  <img src="./assets/creator-image.png" width="140" alt="Creators Avatar Image"/>
+
+  <br /><br />
+
   If BidForge saves your team hours on proposals, consider giving it a ⭐
   <br /><br />
-  Built with ❤️ by <a href="https://github.com/yashraj-n">@yashraj-n</a>, 
+
+  Built with ❤️ by 
+  <a href="https://github.com/yashraj-n">@yashraj-n</a>, 
   <a href="https://github.com/rsk807">@rsk807</a>,
   <a href="https://github.com/dhiraj-rajput">@dhiraj-rajput</a>,
-    <a href="https://github.com/ashish9925">@ashish9925</a>
-
+  <a href="https://github.com/ashish9925">@ashish9925</a>
 </p>
